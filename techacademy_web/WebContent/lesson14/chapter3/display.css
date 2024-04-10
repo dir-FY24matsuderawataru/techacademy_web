@@ -1,11 +1,17 @@
-r {
+.r {
     background-color: pink;
 }
 
-g {
+.g {
     background-color: palegreen;
 }
 
-b {
+.b {
     background-color: skyblue;
+}
+div.r {
+    display: inline;
+}
+div.g {
+    display: inline;
 }
